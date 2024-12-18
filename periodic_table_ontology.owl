@@ -1,0 +1,856 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF
+   xmlns:periodic="http://test.org/periodic#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+>
+  <rdf:Description rdf:about="http://test.org/periodic#Indium">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">In</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">49</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Post-Transition Metal</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moderately Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Lutetium">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lu</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">71</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lanthanide</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moderately Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Beryllium">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Be</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">4</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Alkaline Earth Metal</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Phosphorus">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">P</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">15</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Non-Metal</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Lanthanum">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">La</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">57</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lanthanide</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moderately Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Bohrium">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bh</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">107</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Transition Metal</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Unknown</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Silver">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ag</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">47</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Transition Metal</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moderately Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Potassium">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">K</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">19</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Alkali Metal</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Highly Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Oxygen">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">O</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">8</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Non-Metal</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Highly Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Nobelium">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">No</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">102</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Actinide</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moderately Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Erbium">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Er</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">68</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lanthanide</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moderately Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Actinium">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ac</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">89</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Actinide</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moderately Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Tin">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sn</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">50</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Post-Transition Metal</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moderately Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Yttrium">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Y</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">39</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Transition Metal</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moderately Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Helium">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">He</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">2</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Noble Gas</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Inert</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Dubnium">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Db</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">105</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Transition Metal</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Unknown</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Iridium">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ir</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">77</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Transition Metal</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moderately Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Seaborgium">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sg</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">106</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Transition Metal</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Unknown</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Mendelevium">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Md</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">101</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Actinide</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moderately Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Darmstadtium">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ds</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">110</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Unknown</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Unknown</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#atomicNumber">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:domain rdf:resource="http://test.org/periodic#Element"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#integer"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Berkelium">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bk</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">97</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Actinide</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moderately Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Zinc">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zn</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">30</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Transition Metal</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moderately Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Arsenic">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">As</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">33</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Metalloid</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moderately Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Copernicium">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cn</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">112</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Transition Metal</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Unknown</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Curium">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cm</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">96</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Actinide</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moderately Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Praseodymium">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pr</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">59</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lanthanide</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moderately Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Fermium">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fm</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">100</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Actinide</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moderately Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Promethium">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pm</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">61</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lanthanide</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moderately Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Barium">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ba</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">56</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Alkaline Earth Metal</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Selenium">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Se</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">34</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Non-Metal</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Holmium">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ho</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">67</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lanthanide</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moderately Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Gadolinium">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Gd</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">64</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lanthanide</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moderately Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Tantalum">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ta</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">73</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Transition Metal</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moderately Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Platinum">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pt</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">78</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Transition Metal</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Low Reactivity</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Scandium">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sc</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">21</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Transition Metal</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moderately Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Nickel">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ni</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">28</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Transition Metal</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moderately Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Strontium">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sr</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">38</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Alkaline Earth Metal</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Uranium">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">U</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">92</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Actinide</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moderately Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Sodium">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Na</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">11</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Alkali Metal</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Highly Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Plutonium">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pu</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">94</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Actinide</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moderately Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Magnesium">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mg</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">12</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Alkaline Earth Metal</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Thulium">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tm</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">69</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lanthanide</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moderately Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Cadmium">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cd</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">48</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Transition Metal</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moderately Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#symbol">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:domain rdf:resource="http://test.org/periodic#Element"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Lawrencium">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lr</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">103</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Actinide</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moderately Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Gold">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Au</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">79</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Transition Metal</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Low Reactivity</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Neodymium">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nd</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">60</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lanthanide</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moderately Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Cesium">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cs</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">55</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Alkali Metal</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Highly Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Ruthenium">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ru</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">44</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Transition Metal</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moderately Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Ytterbium">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Yb</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">70</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lanthanide</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moderately Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Nitrogen">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">N</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">7</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Non-Metal</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Zirconium">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Zr</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">40</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Transition Metal</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moderately Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Krypton">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Kr</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">36</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Noble Gas</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Inert</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Einsteinium">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Es</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">99</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Actinide</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moderately Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Rubidium">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rb</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">37</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Alkali Metal</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Highly Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Copper">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cu</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">29</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Transition Metal</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moderately Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Palladium">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pd</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">46</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Transition Metal</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moderately Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#reactivity">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:domain rdf:resource="http://test.org/periodic#Element"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Livermorium">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lv</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">116</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Unknown</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Unknown</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Mercury">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hg</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">80</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Transition Metal</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moderately Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Americium">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Am</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">95</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Actinide</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moderately Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Chromium">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cr</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">24</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Transition Metal</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moderately Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Moscovium">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mc</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">115</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Unknown</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Unknown</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Dysprosium">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Dy</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">66</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lanthanide</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moderately Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Fluorine">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">F</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">9</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Halogen</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Highly Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Manganese">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mn</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">25</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Transition Metal</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moderately Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Francium">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fr</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">87</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Alkali Metal</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Highly Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Gallium">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ga</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">31</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Post-Transition Metal</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moderately Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Bromine">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Br</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">35</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Halogen</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Highly Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Aluminum">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Al</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">13</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Post-Transition Metal</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moderately Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Meitnerium">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mt</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">109</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Unknown</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Unknown</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Thallium">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tl</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">81</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Post-Transition Metal</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moderately Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Hafnium">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hf</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">72</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Transition Metal</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moderately Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Polonium">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Po</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">84</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Metalloid</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moderately Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Chlorine">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cl</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">17</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Halogen</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Highly Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Vanadium">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">V</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">23</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Transition Metal</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moderately Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Oganesson">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Og</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">118</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Noble Gas</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Unknown</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Technetium">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tc</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">43</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Transition Metal</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moderately Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Cerium">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ce</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">58</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lanthanide</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moderately Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Bismuth">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Bi</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">83</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Post-Transition Metal</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moderately Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Silicon">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Si</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">14</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Metalloid</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moderately Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Germanium">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ge</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">32</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Metalloid</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moderately Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Flerovium">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fl</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">114</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Post-Transition Metal</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Unknown</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Sulfur">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">S</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">16</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Non-Metal</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Niobium">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nb</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">41</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Transition Metal</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moderately Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Osmium">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Os</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">76</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Transition Metal</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moderately Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Thorium">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Th</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">90</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Actinide</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moderately Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Boron">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">B</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">5</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Metalloid</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moderately Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Carbon">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">C</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">6</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Non-Metal</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Lead">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pb</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">82</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Post-Transition Metal</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moderately Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Lithium">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Li</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">3</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Alkali Metal</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Highly Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Cobalt">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Co</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">27</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Transition Metal</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moderately Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Rhodium">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rh</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">45</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Transition Metal</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moderately Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Tellurium">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Te</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">52</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Metalloid</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moderately Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Radon">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rn</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">86</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Noble Gas</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Inert</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Astatine">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">At</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">85</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Halogen</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Highly Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Roentgenium">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rg</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">111</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Unknown</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Unknown</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Rhenium">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Re</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">75</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Transition Metal</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moderately Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Protactinium">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Pa</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">91</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Actinide</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moderately Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Antimony">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sb</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">51</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Metalloid</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moderately Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Molybdenum">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Mo</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">42</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Transition Metal</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moderately Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Europium">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Eu</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">63</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lanthanide</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moderately Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Xenon">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Xe</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">54</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Noble Gas</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Inert</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Iron">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Fe</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">26</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Transition Metal</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moderately Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#group">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#DatatypeProperty"/>
+    <rdfs:domain rdf:resource="http://test.org/periodic#Element"/>
+    <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Hydrogen">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">H</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">1</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Non-Metal</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Tungsten">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">W</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">74</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Transition Metal</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moderately Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Rutherfordium">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Rf</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">104</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Transition Metal</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Unknown</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Californium">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Cf</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">98</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Actinide</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moderately Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Calcium">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ca</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">20</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Alkaline Earth Metal</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Nihonium">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Nh</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">113</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Unknown</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Unknown</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Samarium">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Sm</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">62</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lanthanide</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moderately Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Neptunium">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Np</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">93</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Actinide</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moderately Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Terbium">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Tb</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">65</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Lanthanide</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moderately Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Iodine">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">I</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">53</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Halogen</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Highly Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Hassium">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Hs</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">108</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Transition Metal</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Unknown</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Tennessine">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ts</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">117</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Halogen</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Unknown</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Titanium">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ti</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">22</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Transition Metal</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Moderately Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Radium">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ra</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">88</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Alkaline Earth Metal</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Reactive</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Element">
+    <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#Class"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Neon">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ne</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">10</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Noble Gas</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Inert</periodic:reactivity>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://test.org/periodic#Argon">
+    <rdf:type rdf:resource="http://test.org/periodic#Element"/>
+    <periodic:symbol rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Ar</periodic:symbol>
+    <periodic:atomicNumber rdf:datatype="http://www.w3.org/2001/XMLSchema#integer">18</periodic:atomicNumber>
+    <periodic:group rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Noble Gas</periodic:group>
+    <periodic:reactivity rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Inert</periodic:reactivity>
+  </rdf:Description>
+</rdf:RDF>
